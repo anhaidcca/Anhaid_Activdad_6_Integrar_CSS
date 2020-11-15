@@ -1,0 +1,11 @@
+body {
+    background-color: pink;
+}
+
+#segundo {
+    background-color: red;
+}
+
+.impar:hover{
+    font-size: 38px;  
+ }
